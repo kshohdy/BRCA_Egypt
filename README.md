@@ -1,6 +1,6 @@
 # BRCA Landscape in Egyptian women with cancer
 # Introduction
-The pathogenicity prediction of variant of uncertain significance (VUS) is challenging in understudied ancestries such as Northern African. The key challenges is lack of genetic epidemiology, case/control, segregation and phenotype data. We developed a reductionist approach relying on computational prediction and functional annotations.    
+The pathogenicity prediction of variant of uncertain significance (VUS) is challenging in understudied ancestries such as Northern African. The key challenges is lack of genetic epidemiology, case/control, segregation and phenotype data. We developed a reductionist approach relying on computational prediction and functional annotations to predcit VUS pathogenicity in a cohort of 1420 Egyptian women with breast and ovarian cancer.    
 # Computational prediction of intronic variants using SpliceAI
 To predict the functional impact on splicing, three methods can be applied:  
 1) Run the tool for a custom set of variants 
